@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root_group>
+	<group display_name="All Contacts" />
+	<group display_name="Blacklist" />
+</root_group>
+<root_contact>
+	<contact display_name="Some Friend" office_number="3125551212" mobile_number="8475551212" other_number="" line="-1" ring="Auto" default_photo="" selected_photo="0" group_id_name="All Contacts" />
+</root_contact>
